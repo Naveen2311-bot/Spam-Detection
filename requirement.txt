@@ -1,6 +1,5 @@
-scikit-learn
+
 numpy
 pandas
 streamlit
 sklearn
-train_test_split
