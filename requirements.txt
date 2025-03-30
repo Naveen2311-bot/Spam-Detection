@@ -2,8 +2,3 @@ scikit-learn
 numpy
 pandas
 streamlit
-CountVectorizer
-MultinomialNB
-import csv
-csv
-os
